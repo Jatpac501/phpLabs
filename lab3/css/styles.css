@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #333;
+    background: #33333c;
     color: #ddd;
 }
 
@@ -29,7 +29,7 @@ body {
 
 .header {
     border-radius: 32px;
-    background-color: #444;
+    background-color: #44444c;
     padding: 16px;
     display: flex;
     flex-direction: row;
